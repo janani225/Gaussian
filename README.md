@@ -10,9 +10,13 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm:
 
 1.Get the matrix from user.
+
 2.Using "from numpy as np" to import numpy.
+
 3.Using numpy library we solve the matrix using gaussian elimination with partial pivoting.
+
 4.Print the result matrices (Gaussian Elimination).
+
 5.End the program. 
 
 ## Program:
